@@ -12,9 +12,9 @@ A modern, responsive photography portfolio website showcasing professional photo
 - **Modern UI**: Clean design with glass morphism effects and smooth animations
 - **SEO Optimized**: Semantic HTML structure with proper meta tags
 
-## 🚀 Live Demo
+<!-- ## 🚀 Live Demo
 
-View the live site: [Photography Portfolio](https://lovable.dev/projects/fffa33f4-3fdc-4b11-a6a9-6238b25b725f)
+View the live site: [Photography Portfolio](link here) -->
 
 ## 🛠️ Technologies Used
 
@@ -100,12 +100,6 @@ The project uses a comprehensive design system with:
 
 ## 🌐 Deployment
 
-### Deploy with Lovable
-1. Open your [Lovable project](https://lovable.dev/projects/fffa33f4-3fdc-4b11-a6a9-6238b25b725f)
-2. Click "Share" → "Publish"
-3. Your site will be live instantly
-
-### Deploy Elsewhere
 The built project can be deployed to any static hosting service:
 - Vercel
 - Netlify
@@ -131,4 +125,4 @@ For any questions or inquiries about this portfolio template, feel free to reach
 
 ---
 
-Built with ❤️ using [Lovable](https://lovable.dev)
+
