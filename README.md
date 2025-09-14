@@ -1,6 +1,8 @@
 # Photography Portfolio
 
 A modern, responsive photography portfolio website showcasing professional photography services. Built with React, TypeScript, and Tailwind CSS for a sleek and performant user experience.
+<!-- Portfolio preview image: place your screenshot at `public/premiere-lens-gallery-portfolio.png` -->
+![Portfolio Preview](public/premiere-lens-gallery-portfolio.png)
 
 ## 🌟 Features
 
